@@ -1,0 +1,15 @@
+D:\Backend\Export Projects\Youmna\CRUD-Operations-Systems\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+D:\Backend\Export Projects\Youmna\CRUD-Operations-Systems\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+D:\Backend\Export Projects\Youmna\CRUD-Operations-Systems\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\Backend\Export Projects\Youmna\CRUD-Operations-Systems\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Backend\Export Projects\Youmna\CRUD-Operations-Systems\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Backend\Export Projects\Youmna\CRUD-Operations-Systems\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\Backend\Export Projects\Youmna\CRUD-Operations-Systems\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\Export Projects\Youmna\CRUD-Operations-Systems\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\Backend\Export Projects\Youmna\CRUD-Operations-Systems\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+D:\Backend\Export Projects\Youmna\CRUD-Operations-Systems\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\Backend\Export Projects\Youmna\CRUD-Operations-Systems\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+D:\Backend\Export Projects\Youmna\CRUD-Operations-Systems\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+D:\Backend\Export Projects\Youmna\CRUD-Operations-Systems\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+D:\Backend\Export Projects\Youmna\CRUD-Operations-Systems\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+D:\Backend\Export Projects\Youmna\CRUD-Operations-Systems\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
